@@ -1,7 +1,7 @@
 let a=10;
-if(a%5==0){
-console.log("Odd");
+if(a%2==0){
+console.log("Even");
 }
 else{
-    console.log("Even");
+    console.log("Odd");
 }
